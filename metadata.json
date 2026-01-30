@@ -1,0 +1,6 @@
+
+{
+  "name": "Cyberspace Dojo: Santosh's Command Center",
+  "description": "An interactive, gamified cybersecurity learning platform featuring a syntax terminal game, story-driven breaches, and an AI mentor.",
+  "requestFramePermissions": ["microphone"]
+}
